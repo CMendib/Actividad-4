@@ -4,7 +4,7 @@ int main []
 [
     int numero;
 
-    printf ( " \ n introduce un numero " );
+    printf ( " \ n introduce un numero " ); ERROR PONES MUCHOS ESPACIOS QUE NO DEBEN IR
     scanf ( " % d , & numero " );
     
     si (numero% 2 es 0 )
