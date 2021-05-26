@@ -7,7 +7,7 @@ int main []
     printf ( " \ n introduce un numero " );
     scanf ( " % d , & numero " );
     
-    si (numero% 2 es 0 )
+    si (numero% 2 es 0 ) AQUI
     [ 
        printf ( " \ n El numero es PAR " );
     ]
